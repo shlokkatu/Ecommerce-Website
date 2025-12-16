@@ -2,11 +2,11 @@
 An elegant and responsive frontend for a fashion-focused ecommerce platform. Built with HTML, CSS, and JavaScript, this project showcases modern design elements, promotional banners, product listings, and a user-friendly layout.
 
 📸 Preview
-![Homepage Preview](images/homepage.png)
-![Homepage Preview](images/homepage.png)
-![Homepage Preview](images/homepage.png)
-![Homepage Preview](images/homepage.png)
-![Homepage Preview](images/homepage.png)
+![Homepage Preview](https://github.com/shlokkatu/Ecommerce-Website/blob/3dd0358e3af92ee2e79ce50e0638212e3635a286/Screenshot%202025-12-17%20000954.png)
+![Homepage Preview](https://github.com/shlokkatu/Ecommerce-Website/blob/3dd0358e3af92ee2e79ce50e0638212e3635a286/Screenshot%202025-12-16%20235707.png)
+![Homepage Preview](https://github.com/shlokkatu/Ecommerce-Website/blob/3dd0358e3af92ee2e79ce50e0638212e3635a286/Screenshot%202025-12-16%20235813.png)
+![Homepage Preview](https://github.com/shlokkatu/Ecommerce-Website/blob/3dd0358e3af92ee2e79ce50e0638212e3635a286/Screenshot%202025-12-16%20235839.png)
+![Homepage Preview](https://github.com/shlokkatu/Ecommerce-Website/blob/3dd0358e3af92ee2e79ce50e0638212e3635a286/Screenshot%202025-12-16%20235858.png)
 
 
 
